@@ -1,0 +1,37 @@
+{
+    "name": "Xenwave Exchange",
+    "logoURI": "",
+    "keywords": [
+        "xenwave",
+        "exchange",
+        "bitnet",
+        "blockwave"
+    ],
+    "timestamp": "2023-10-01T18:18:00+00:00",
+    "tokens": [
+        {
+            "chainId": 550,
+            "address": "0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd",
+            "symbol": "WTWAVE",
+            "name": "Wrapped Wavecoin",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": [
+                "wrapped",
+                "wavecoin"
+            ]
+        },
+        {
+            "chainId": 550,
+            "address": "0x1D4A9dD8596aFF8151100dCF81E08EF0c3C97105",
+            "symbol": "MPEPE",
+            "name": "MemePepe",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": [
+                "meme",
+                "pepe"
+            ]
+        }
+    ]
+}
