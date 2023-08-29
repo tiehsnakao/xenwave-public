@@ -1,6 +1,6 @@
 {
     "name": "Xenwave Exchange",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd/logo.png",
     "keywords": [
         "xenwave",
         "exchange",
@@ -20,7 +20,7 @@
             "symbol": "WTWAVE",
             "name": "Wrapped Wavecoin",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd/logo.png",
             "tags": [
                 "wrapped",
                 "wavecoin"
@@ -32,7 +32,7 @@
             "symbol": "MPEPE",
             "name": "MemePepe",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd/logo.png",
             "tags": [
                 "meme",
                 "pepe"
