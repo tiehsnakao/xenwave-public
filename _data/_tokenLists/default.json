@@ -8,6 +8,11 @@
         "blockwave"
     ],
     "timestamp": "2023-10-01T18:18:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
     "tokens": [
         {
             "chainId": 550,
