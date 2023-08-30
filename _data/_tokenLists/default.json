@@ -28,6 +28,19 @@
         },
         {
             "chainId": 550,
+            "address": "0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d",
+            "symbol": "reUSDT",
+            "name": "Restratagem USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d/logo.png",
+            "tags": [
+                "stablecoin",
+                "wrapped",
+                "bridge"
+            ]
+        },
+        {
+            "chainId": 550,
             "address": "0x622EC0f94d5c193907440e1AAf58E2C3FBd606eF",
             "symbol": "MPEPE",
             "name": "MemePepe",
