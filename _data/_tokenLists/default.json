@@ -41,7 +41,7 @@
         {
             "chainId": 550,
             "address": "0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d",
-            "symbol": "USDT",
+            "symbol": "reUSDT",
             "name": "Bridged Tether",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d/logo.png",
