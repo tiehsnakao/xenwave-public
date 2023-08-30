@@ -15,6 +15,18 @@
     },
     "tokens": [
         {
+            "chainId": 210,
+            "address": "0x8148b71232162ea7a0b1c8bfe2b8f023934bfb58",
+            "symbol": "WBTN",
+            "name": "Wrapped Bitnet",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd/logo.png",
+            "tags": [
+                "wrapped",
+                "bitnet"
+            ]
+        },
+        {
             "chainId": 550,
             "address": "0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd",
             "symbol": "WTWAVE",
@@ -29,9 +41,9 @@
         {
             "chainId": 550,
             "address": "0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d",
-            "symbol": "reUSDT",
-            "name": "Restratagem USDT",
-            "decimals": 18,
+            "symbol": "USDT",
+            "name": "Bridged Tether",
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d/logo.png",
             "tags": [
                 "stablecoin",
@@ -45,7 +57,7 @@
             "symbol": "MPEPE",
             "name": "MemePepe",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x622EC0f94d5c193907440e1AAf58E2C3FBd606eF/logo.png",
             "tags": [
                 "meme",
                 "pepe"
