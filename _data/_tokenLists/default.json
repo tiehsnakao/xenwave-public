@@ -21,16 +21,10 @@
             "name": "Wrapped Bitnet",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x8148b71232162ea7a0b1c8bfe2b8f023934bfb58/logo.png",
-            "tags": []
-        },
-        {
-            "chainId": 210,
-            "address": "0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e",
-            "symbol": "STRAT",
-            "name": "Stratus",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e/logo.png",
-            "tags": []
+            "tags": [
+                "wrapped",
+                "bitnet"
+            ]
         },
         {
             "chainId": 550,
