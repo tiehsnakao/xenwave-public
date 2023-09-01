@@ -62,6 +62,18 @@
                 "meme",
                 "pepe"
             ]
+        },
+        {
+            "chainId": 550,
+            "address": "0x8C4E71701a2AbffF9aB5FFD24392C83e25b3CB60",
+            "symbol": "TEST",
+            "name": "TestStrat",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8C4E71701a2AbffF9aB5FFD24392C83e25b3CB60/logo.png",
+            "tags": [
+                "test",
+                "token"
+            ]
         }
     ]
 }
