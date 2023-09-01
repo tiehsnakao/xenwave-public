@@ -16,6 +16,19 @@
     "tokens": [
         {
             "chainId": 210,
+            "address": "0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e",
+            "symbol": "STRAT",
+            "name": "Stratus",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xc9BDBA447C18651FeC1871c3dA25bF1eB4F1fa8e/logo.png",
+            "tags": [
+                "stratus",
+                "restratagem",
+                "xenwave"
+            ]
+        },
+        {
+            "chainId": 210,
             "address": "0x8148b71232162ea7a0b1c8bfe2b8f023934bfb58",
             "symbol": "WBTN",
             "name": "Wrapped Bitnet",
@@ -61,18 +74,6 @@
             "tags": [
                 "meme",
                 "pepe"
-            ]
-        },
-        {
-            "chainId": 550,
-            "address": "0x8C4E71701a2AbffF9aB5FFD24392C83e25b3CB60",
-            "symbol": "TEST",
-            "name": "TestStrat",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8C4E71701a2AbffF9aB5FFD24392C83e25b3CB60/logo.png",
-            "tags": [
-                "test",
-                "token"
             ]
         }
     ]
