@@ -41,7 +41,7 @@
         {
             "chainId": 210,
             "address": "0xd9B4225B1872a008870Bae4797ec6eBabf5e2e2f",
-            "symbol": "reUSDT",
+            "symbol": "USDT",
             "name": "ReBridge USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xd9B4225B1872a008870Bae4797ec6eBabf5e2e2f/logo.png",
@@ -68,7 +68,7 @@
         {
             "chainId": 550,
             "address": "0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d",
-            "symbol": "reUSDT",
+            "symbol": "USDT",
             "name": "ReBridge USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/550/0x8c3F01b75917723D37723EF3F47B1fA3A31BFF7d/logo.png",
