@@ -55,11 +55,11 @@
         },
         {
             "chainId": 210,
-            "address": "0x325D2Cda5A5Ce315cB7B647a2E084c8e30AFeC3d",
+            "address": "0xcf2a260d542ea809e0044369aA0CC11d0c14C715",
             "symbol": "BPEPE",
             "name": "BitPepe",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x325D2Cda5A5Ce315cB7B647a2E084c8e30AFeC3d/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xcf2a260d542ea809e0044369aA0CC11d0c14C715/logo.png",
             "tags": [
                 "meme"
             ]
