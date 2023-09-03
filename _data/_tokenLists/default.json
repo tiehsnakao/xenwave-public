@@ -54,6 +54,17 @@
             ]
         },
         {
+            "chainId": 210,
+            "address": "0x325D2Cda5A5Ce315cB7B647a2E084c8e30AFeC3d",
+            "symbol": "BPEPE",
+            "name": "BitPepe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x325D2Cda5A5Ce315cB7B647a2E084c8e30AFeC3d/logo.png",
+            "tags": [
+                "meme"
+            ]
+        },
+        {
             "chainId": 550,
             "address": "0x508aeBc3172eE8FdA7cc746f224C8D9061be7cbd",
             "symbol": "WTWAVE",
