@@ -16,11 +16,11 @@
     "tokens": [
         {
             "chainId": 210,
-            "address": "0x8148b71232162ea7a0b1c8bfe2b8f023934bfb58",
+            "address": "0x8148b71232162EA7a0b1c8bFE2b8F023934BFb58",
             "symbol": "WBTN",
             "name": "Wrapped Bitnet",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x8148b71232162ea7a0b1c8bfe2b8f023934bfb58/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0x8148b71232162EA7a0b1c8bFE2b8F023934BFb58/logo.png",
             "tags": [
                 "wrapped",
                 "bitnet"
