@@ -10,7 +10,7 @@
     "timestamp": "2023-10-01T18:18:00+00:00",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -36,6 +36,21 @@
             "tags": [
                 "stratus",
                 "xenwave"
+            ]
+        },
+        {
+            "chainId": 210,
+            "address": "0xd9B4225B1872a008870Bae4797ec6eBabf5e2e2f",
+            "symbol": "USDT",
+            "name": "ReBridge USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/restratagem/xenwave-public/main/_data/_tokenInfo/210/0xd9B4225B1872a008870Bae4797ec6eBabf5e2e2f/logo.png",
+            "tags": [
+                "usd",
+                "usdt",
+                "stablecoin",
+                "tether",
+                "bridge"
             ]
         },
         {
