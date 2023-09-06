@@ -101,7 +101,21 @@
             "tags": [
                 "meme",
                 "pepe"
+                
             ]
+             {
+            "chainId": 210,
+            "address": "0x89d300682291B8F1c3De63aE7BFCdf9eD7b16659",
+            "symbol": "NFT",
+            "name": "BitNFT",
+            "decimals": 18,
+            "logoURI": "/logo.png",
+            "tags": [
+                "meme",
+                "NFT"
+                
+            ]
+            },
         }
     ]
 }
